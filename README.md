@@ -6,8 +6,7 @@
 - Aisha Violeta Azarine Sunarto (5048251036)
 
 ## Deskripsi
-Program ini adalah aplikasi berbasis bahasa C yang menyediakan berbagai perhitungan dasar listrik DC dan konversi bilangan.  
-Program berjalan di terminal dengan menu interaktif sehingga mudah digunakan oleh pemula.
+Program ini adalah aplikasi sederhana berbasis bahasa C yang berfungsi sebagai alat bantu perhitungan dasar listrik dan konversi bilangan. Pengguna dapat menghitung tegangan, arus, hambatan, daya listrik, serta total hambatan pada rangkaian seri dan paralel. Selain itu, program ini juga dapat mengonversi bilangan desimal, biner, oktal, dan heksadesimal. Semua fitur dapat diakses melalui menu interaktif di terminal, sehingga mudah digunakan oleh pemula.
 
 ## Fitur
 ### Perhitungan Listrik DC
